@@ -1,3 +1,3 @@
 # python-practice
 
-Hello Everyone!! This is repositories that I learn python language.
+Hello Everyone!! This is repository that I learn python language.
